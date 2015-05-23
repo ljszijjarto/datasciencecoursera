@@ -1,0 +1,7 @@
+---
+title: "README"
+output: html_document
+---
+
+To process the "Human Activity Recognition Using Samsung Smartphones" data, simply execute the run_analysis.R script with no parameters. The Samsung input data folder "UCI HAR Dataset" should be in you working directory. The output will be in a file called "tidy-data.txt". Refer to the code book for the description of the variables in the output file.
+
